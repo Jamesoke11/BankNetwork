@@ -1,5 +1,5 @@
-# KKBankNetwork
-KKBank network simulation in packet tracer
+# BankNetwork
+Bank network simulation in packet tracer
 TECHNOLOGIES IMPLEMENTED 
 1. Correct cabling of the devices
 2. IP addressing
